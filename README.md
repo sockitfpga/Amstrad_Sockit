@@ -1,3 +1,7 @@
+# Amstrad CPC 6128 for Sockit
+
+Ported from https://github.com/MiSTer-devel/ZX81_MiSTer according from Somhi sockit template. 
+Follows original readme file.
 
 # Amstrad CPC 6128 for MiST and MiSTer
 This core has been started as a port of [CoreAmstrad by Renaud Hélias](https://github.com/renaudhelias/CoreAmstrad) but every module has been either rewritten or replaced so, now it can be treated as a completely new core.
