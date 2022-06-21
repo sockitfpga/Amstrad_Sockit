@@ -1,6 +1,6 @@
 # Amstrad CPC 6128 for Sockit
 
-Ported from https://github.com/MiSTer-devel/ZX81_MiSTer according from Somhi sockit template. 
+Ported from https://github.com/MiSTer-devel/Amstrad_MiSTer ording from Somhi sockit template. 
 Follows original readme file.
 
 # Amstrad CPC 6128 for MiST and MiSTer
